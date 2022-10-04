@@ -6,3 +6,6 @@
 
 #### after searching location
 ![image](https://user-images.githubusercontent.com/72549562/193878221-b32d110c-e914-4f82-b282-9db555c338e5.png)
+
+#### when result not found
+![image](https://user-images.githubusercontent.com/72549562/193878671-2b1ce00c-f2d6-4476-88d9-14c56dcf5417.png)
